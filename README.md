@@ -11,7 +11,7 @@
 ## 📊 Github Stats
   <br/>
   <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberianzed&show_icons=true&locale=en&layout=compact&theme=algolia" alt="cyberianzed" height="192px"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberianzed&show_icons=true&locale=en&layout=compact&hide=Jupyter Notebook" alt="cyberianzed" height="157px"/>
  <br/>
 
 
