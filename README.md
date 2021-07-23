@@ -9,8 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cyberianzed&theme=react)](https://git.io/streak-stats)" alt="cyberianzed"  /></p>
-
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=cyberianzed&theme=react" alt="cyberianzed"  /></p>
 
 
 
