@@ -1,6 +1,6 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/jeff-jazy/jeff-jazy/blob/main/Hi.gif" width="30px"></h2>
-Hi there 👋 I am Jose K <br>
+Hi there 👋 I am Jose K 
 
 <a href="https://www.linkedin.com/in/josekjames/">
   <img align="center" alt="Jose's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />  
