@@ -4,10 +4,10 @@
 
 
 <div align="center">
-  ### Hi there 👋 I am J0se K
+  ### Hi there 👋 I am J0se K <br>
 
 <a href="https://www.linkedin.com/in/josekjames/">
-  <img align="left" alt="Apurv's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Apurv's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><br>
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Connect me on <a href="https://t.me/Im_Joz"><b>telegram</b></a><br>
